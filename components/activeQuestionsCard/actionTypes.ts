@@ -1,0 +1,1 @@
+export const SELECT_ACTIVE_QUESTION = "SELECT_ACTIVE_QUESTION" as const;

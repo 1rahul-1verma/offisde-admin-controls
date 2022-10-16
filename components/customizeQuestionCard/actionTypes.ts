@@ -1,0 +1,5 @@
+export const SET_CUSTOM_QUESTION = "SET_CUSTOM_QUESTION" as const;
+export const SET_CUSTOM_OPTION = "SET_CUSTOM_OPTION" as const;
+export const ADD_CUSTOM_OPTION = "ADD_CUSTOM_OPTION" as const;
+export const REMOVE_CUSTOM_OPTION = "REMOVE_CUSTOM_OPTION" as const;
+export const PUSH_CUSTOM_QUESTION = "PUSH_CUSTOM_QUESTION" as const;
